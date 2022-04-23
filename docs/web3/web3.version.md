@@ -19,5 +19,5 @@ web3.version
 示例代码：
 ```js
 web3.version;
-> "1.0.0"
+> "1.7.3"
 ```

@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        我们具有专业的翻译团队，专业的技术人员进行翻译和校准，为正确率进行保障。
+        本项目依托于IT-DAO web3通用技术研究组织，长期稳定更新。而且我们具有专业的翻译团队，专业的技术人员进行翻译和校准，为正确率进行保障。
       </>
     ),
   },
@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        本项目依托于 IT-DAO web3通用技术研究组织，长期稳定更新。也欢迎参与本项目GitHub翻译，你将获得IT-DAO限定版NFT作为激励。
+        IT-DAO组织成立中，如果想了解，可以关注我们的推特，如果你为IT-DAO贡献力量，你将获得IT-DAO限定版NFT作为激励。
       </>
     ),
   },
