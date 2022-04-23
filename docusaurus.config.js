@@ -53,9 +53,9 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: '入门',
+            label: '开始',
           },
-          {to: '/blog', label: 'web3.eth', position: 'left'},
+          // {to: '/blog', label: 'web3.eth', position: 'left'},
           {
             href: 'https://github.com/IT-DAO/web3.js',
             label: 'GitHub',
@@ -70,7 +70,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: '入门',
+                label: '开始',
                 to: '/docs/intro',
               },
             ],
