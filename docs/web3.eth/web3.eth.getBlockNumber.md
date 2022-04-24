@@ -1,5 +1,5 @@
 ---
-sidebar_position: 10
+title: web3.eth.getBlockNumber
 ---
 
 # web3.eth.getBlockNumber

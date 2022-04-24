@@ -1,8 +1,8 @@
 ---
-sidebar_position: 21
+title: web3.eth.sendTransaction
 ---
 
-# web3.eth.defaultAccount
+# web3.eth.sendTransaction
 
 发送交易：web3.eth.sendTransaction()方法向以太坊网络提交一个交易。
 

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 12
+title: web3.eth.getStorageAt
 ---
 
 # web3.eth.getStorageAt

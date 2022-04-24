@@ -1,5 +1,5 @@
 ---
-sidebar_position: 33
+title: web3.eth.submitWork
 ---
 
 # web3.eth.submitWork

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+title: web3.givenProvider
 ---
 
 # web3.givenProvider 

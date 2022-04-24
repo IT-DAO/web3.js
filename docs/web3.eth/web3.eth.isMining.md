@@ -1,8 +1,8 @@
 ---
-sidebar_position: 6
+title: web3.eth.isMining
 ---
 
-# web3.eth.defaultAccount
+# web3.eth.isMining
 
 检查节点是否在挖矿：调用web3.eth.isMining()方法来检查节点是否在进行挖矿。
 

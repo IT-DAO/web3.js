@@ -1,5 +1,5 @@
 ---
-sidebar_position: 16
+title: web3.eth.getUncle
 ---
 
 # web3.eth.getUncle

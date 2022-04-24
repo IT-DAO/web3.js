@@ -1,8 +1,8 @@
 ---
-sidebar_position: 27
+title: web3.eth.getPastLogs
 ---
 
-# web3.eth.signTransaction
+# web3.eth.getPastLogs
 
 返回历史日志：web3.eth.getPastLogs()方法根据指定的选项返回历史日志。
 

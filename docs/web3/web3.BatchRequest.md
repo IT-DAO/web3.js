@@ -1,5 +1,5 @@
 ---
-sidebar_position: 7
+title: web3.BatchRequest
 ---
 
 # web3.BatchRequest

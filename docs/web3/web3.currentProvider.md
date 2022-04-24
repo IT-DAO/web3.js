@@ -1,5 +1,5 @@
 ---
-sidebar_position: 6
+title: web3.currentProvider
 ---
 
 # web3.currentProvider

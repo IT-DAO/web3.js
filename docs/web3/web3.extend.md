@@ -1,5 +1,5 @@
 ---
-sidebar_position: 8
+title: web3.extend
 ---
 
 # web3.extend

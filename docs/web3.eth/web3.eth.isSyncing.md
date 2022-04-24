@@ -1,8 +1,8 @@
 ---
-sidebar_position: 4
+title: web3.isSyncing
 ---
 
-# web3.eth.defaultAccount
+# web3.eth.isSyncing
 
 检查节点是否同步：web3.eth.isSyncing()方法用来检查节点当前是否已经与网络同步。
 

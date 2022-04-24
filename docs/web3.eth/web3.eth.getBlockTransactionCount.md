@@ -1,8 +1,8 @@
 ---
-sidebar_position: 15
+title: web3.eth.getBlockTransactionCount
 ---
 
-# web3.eth.defaultAccount
+# web3.eth.getBlockTransactionCount
 
 返回指定块中的交易数量：web3.eth.getBlockTransactionCount()方法返回指定块中的交易数量。
 

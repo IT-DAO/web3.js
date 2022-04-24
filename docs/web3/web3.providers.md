@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+title: web3.providers
 ---
 
 # web3.providers

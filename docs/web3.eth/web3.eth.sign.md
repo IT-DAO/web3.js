@@ -1,5 +1,5 @@
 ---
-sidebar_position: 23
+title: web3.eth.sign
 ---
 
 # web3.eth.sign

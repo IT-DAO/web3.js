@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+title: web3.setProvider
 ---
 
 # web3.setProvider

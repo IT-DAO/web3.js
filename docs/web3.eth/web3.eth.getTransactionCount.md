@@ -1,5 +1,5 @@
 ---
-sidebar_position: 20
+title: web3.eth.getTransactionCount
 ---
 
 # web3.eth.getTransactionCount

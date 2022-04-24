@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+title: web3.modules
 ---
 
 # web3.modules

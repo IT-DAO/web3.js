@@ -1,5 +1,5 @@
 ---
-sidebar_position: 32
+title: web3.eth.getWork
 ---
 
 # web3.eth.getWork

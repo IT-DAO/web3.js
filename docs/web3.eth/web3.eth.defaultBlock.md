@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+title: web3.eth.defaultBlock
 ---
 
 # web3.eth.defaultBlock

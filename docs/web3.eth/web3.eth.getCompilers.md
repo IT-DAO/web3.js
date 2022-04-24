@@ -1,5 +1,5 @@
 ---
-sidebar_position: 28
+title: web3.eth.getCompilers
 ---
 
 # web3.eth.getCompilers

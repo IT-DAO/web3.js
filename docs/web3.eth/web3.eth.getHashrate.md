@@ -1,5 +1,5 @@
 ---
-sidebar_position: 7
+title: web3.eth.getHashrate
 ---
 
 # web3.eth.getHashrate

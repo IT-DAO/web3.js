@@ -1,5 +1,5 @@
 ---
-sidebar_position: 29
+title: web3.eth.compile.solidity
 ---
 
 # web3.eth.compile.solidity

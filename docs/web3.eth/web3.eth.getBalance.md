@@ -1,5 +1,5 @@
 ---
-sidebar_position: 11
+title: web3.eth.getBalance
 ---
 
 # web3.eth.getBalance

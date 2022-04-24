@@ -1,5 +1,5 @@
 ---
-sidebar_position: 31
+title: web3.eth.compile.serpent
 ---
 
 # web3.eth.compile.serpent

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 26
+title: web3.eth.estimateGas
 ---
 
 # web3.eth.estimateGas

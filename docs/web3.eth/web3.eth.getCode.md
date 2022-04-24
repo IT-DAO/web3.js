@@ -1,5 +1,5 @@
 ---
-sidebar_position: 13
+title: web3.eth.getCode
 ---
 
 # web3.eth.getCode

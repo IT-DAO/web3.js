@@ -1,5 +1,5 @@
 ---
-sidebar_position: 18
+title: web3.eth.getTransactionFromBlock
 ---
 
 # web3.eth.getTransactionFromBlock

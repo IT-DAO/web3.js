@@ -1,5 +1,5 @@
 ---
-sidebar_position: 22
+title: web3.eth.sendSignedTransaction
 ---
 
 # web3.eth.sendSignedTransaction

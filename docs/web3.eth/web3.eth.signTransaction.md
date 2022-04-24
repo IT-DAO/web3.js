@@ -1,5 +1,5 @@
 ---
-sidebar_position: 24
+title: web3.eth.signTransaction
 ---
 
 # web3.eth.signTransaction

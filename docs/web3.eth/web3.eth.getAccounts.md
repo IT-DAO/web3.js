@@ -1,5 +1,5 @@
 ---
-sidebar_position: 9
+title: web3.eth.getAccounts
 ---
 
 # web3.eth.getAccounts

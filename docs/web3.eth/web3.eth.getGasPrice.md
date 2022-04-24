@@ -1,5 +1,5 @@
 ---
-sidebar_position: 8
+title: web3.eth.getGasPrice
 ---
 
 # web3.eth.getGasPrice
