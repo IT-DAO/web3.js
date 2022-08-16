@@ -1,6 +1,6 @@
 ---
 title: web3.js中文网
-sidebar_label: web3.js中文网
+sidebar_label: 简介
 slug: /
 image: /img/meta/open-graph.png
 hide_table_of_contents: true
